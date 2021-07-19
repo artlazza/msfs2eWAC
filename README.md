@@ -3,7 +3,7 @@
 
 ## Instalação
 1) Instalar a versão de 64-bit do [Python 3](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe). (Tenha a certeza de adicionar o Python à variável de ambiente PATH.
-2) Baixe [a última versão deste programa](https://github.com/artlazza/msfs2fltplan/releases/download/v1.2/msfs2fltplaneWac-v1.2.zip) e extraia para um diretório à sua escolha, como `C:\fltplan`
+2) Baixe [a última versão deste programa](https://github.com/artlazza/msfs2eWAC/releases/download/v1.2/msfs2fltplaneWac-v1.2.zip) e extraia para um diretório à sua escolha, como `C:\fltplan`
 
 ## Como Usar
 1) Abra o Microsoft Flight Simulator
