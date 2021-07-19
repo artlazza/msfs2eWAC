@@ -1,4 +1,4 @@
-# msfs2fltplan eWac
+# msfs2eWAC
  Esse programa foi desenvolvido baseado no msfs2fltplan (https://github.com/musurca/msfs2fltplan/). A ideia foi adaptá-lo para fornecer informações do Microsoft Flight Simulator 2020 ao aplicativo eWac para iOS, muito utilizado para navegação no Brasil. Essa ferramenta permite que você defina o endereço IP do seu dispositivo iOS com eWac e obtenha informações em tempo real do simulador no aplicativo.
 
 ## Instalação
