@@ -7,7 +7,7 @@
 
 ## Como Usar
 1) Abra o Microsoft Flight Simulator
-2) Utilizando a linha de comando (cmd.exe), selecione o diretório onde você instalou esse repositório (p. ex. cd C:\fltplan)
+2) Utilizando a linha de comando (cmd.exe), selecione o diretório onde você instalou esse repositório (p. ex. `cd C:\fltplan\msfs2fltplaneWac-v1.2\msfs2fltplan-master`)
 3) Uma vez no diretório digite `connect [endereço_ip]` sendo que o IP é o do seu dispositivo iOS rodando o eWac. Tanto o computador rodando o MSFS e o dispositivo iOS têm que estar na mesma rede. Por exemplo:
 ```
 connect 192.168.1.209
