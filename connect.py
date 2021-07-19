@@ -13,7 +13,7 @@ import struct
 from SimConnect import *
 from SimConnect.Enum import *
 
-XPLANE_PORT = 49002
+XPLANE_PORT = 49003
 UPDATE_RATE = 5     # in Hz
 REFRESH_TIME = 1 / UPDATE_RATE
 
